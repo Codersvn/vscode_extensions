@@ -122,12 +122,12 @@
   "coveralls": "^3.0.0",
   "istanbul": "^0.4.5",
   "lint-staged": "^4.3.0",
-  "mocha": "^3.2.0",
+  "mocha": "^10.2.0",
   "prettier": "^1.7.4",
   "tslint": "^5.8.0",
   "tslint-config-prettier": "^1.6.0",
   "typescript": "^2.5.3",
-  "vscode": "0.10.x"
+  "vscode": "1.1.x"
  },
  "dependencies": {
   "faker": "~4.1.0"
